@@ -1,5 +1,15 @@
-### Hi there 👋
 
+<div align="center">
+  <a href="https://github.com/joel-carneiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joel-carneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-carneiro&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center"  src="https://img.shields.io/badge/Data%20Science-Beginner-brightgreen?style=for-the-badge&logo=jupyter">
+  <img align="center"  src="https://img.shields.io/badge/Python-profissional-informational?style=for-the-badge&logo=python">
+  <img align="center"  src="https://img.shields.io/badge/linux-fan-blueviolet?style=for-the-badge&logo=Linux">
+</div>
+  
 <!--
 **joel-carneiro/joel-carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
