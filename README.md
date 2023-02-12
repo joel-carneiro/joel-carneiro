@@ -2,10 +2,9 @@
 
 Eu sou um educador de ciência de dados, do Nordeste Brasileiro, que ama a comunidade de código aberto e a disseminação de conhecimento. Comecei na ciência de dados em 2019, e desde então, venho me profissionalizando nessa área, com objetivo de me aperfeiçoar profissionalmente e me tornar capaz de ensinar os outros, afim de ajudar empresas e setores que necessitem da ciência de dados no seu núcleo.
   
-<div align="center">
+<div align="left">
   <a href="https://github.com/joel-carneiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joel-carneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-carneiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>  
 
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=20beff"/>](https://www.kaggle.com/joelcarneiro)  [<img src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff0000">](https://www.youtube.com/@DataProjectsBrazil) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joel-carneiro-9113aa256/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joel_ds.py/) 
