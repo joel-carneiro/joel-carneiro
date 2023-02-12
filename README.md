@@ -7,7 +7,7 @@ Eu sou um educador de ciência de dados, do Nordeste Brasileiro, que ama a comun
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joel-carneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-carneiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>  
-  
+
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=20beff"/>](https://www.kaggle.com/joelcarneiro)  [<img src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff0000">](https://www.youtube.com/@DataProjectsBrazil) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joel-carneiro-9113aa256/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joel_ds.py/) 
 
 ## Meu trabalho
@@ -32,4 +32,5 @@ Sou divulgador de ciência de dados na internet, principalmente no [Youtube](htt
 
 ## Certificações e Currículo
 
-* É possível acessar acessar todas minhas formações e meu curriculo completo [aqui.](https://github.com/joel-carneiro/joel-carneiro)
+* Toda minha formação na alura é encontrada nesse [link](https://cursos.alura.com.br/user/jcarneiro-pessoal/fullCertificate/43252e5c2814f81f43dfef856b84ce7a)
+* Meu currículo pode ser acessado [aqui](https://github.com/joel-carneiro/joel-carneiro/blob/main/CV.pdf)
